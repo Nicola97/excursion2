@@ -1,7 +1,27 @@
-h1{
+h1 {
     font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
-  }
+   }
+
+ body {
+        background-color: black;
+        text-align: center;
+      }
+
+.middle h1 {
+           font-size: 42px;
+           font-weight: 300;
+           }
+
+.middle p {
+           font-family: Verdana;
+           font-size: 21px;
+           color: Grey;
+          }
+
+#download {
+            font-size: 16px;
+            color: Aquamarine;
+          }

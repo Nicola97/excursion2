@@ -21,7 +21,16 @@ h1 {
            color: Grey;
           }
 
-#download {
+.download {
             font-size: 16px;
             color: Aquamarine;
           }
+
+.bottom p {
+           font-size: 16px;
+           color: Aquamarine;
+          }
+.end p {
+        text-align: right;
+        color: grey;
+       }
